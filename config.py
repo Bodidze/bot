@@ -1,0 +1,6 @@
+token='191611791:AAFQ-E94qDJAk6wvagbGHb3ASSJfmIHi1Dw'
+
+client_id='88Piin90UxyQbBps'
+
+client_secret='giuTgn9QDkdbIPOC4zwIyxDQ1Ss2nYsSshlowwXrjL9eB9hwirzFsKPkQofRhO0aHMbxN0QWhYU9F4jHBUFXtSg5zJKOTcNUyLsVgDB7VPnIEKnZyOGe3N2NLXy1GoImjCAQ0yhdRS9Vc5TJa8plVu3Ldbk0SuWRbE3pD3oZRA0MifoNmF3R21ukyssflhmgdWcse0t8S2Yz1JxHcpCN6005P'
+redirect_uri='https://target.my.com/oauth2/authorize'
