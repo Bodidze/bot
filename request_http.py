@@ -3,7 +3,7 @@ import config
 import http.client
 import json
 
-connection = http.client.HTTPSConnection('target.my.com')
+connection = http.client.HTTPSConnection('www.com')
 headers = {"Content-type":"application/x-www-form-urlencoded"}
 body='grant_type=client_credentials&client_id=%s&client_secret=%s'%(config.client_id, config.client_secret )
 
